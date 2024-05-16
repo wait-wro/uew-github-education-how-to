@@ -7,6 +7,12 @@ Welcome to the UEW GitHub Education Account Activation Guide repository! This re
 
 GitHub Education provides students with free access to premium developer tools through the GitHub Student Developer Pack, including GitHub Pro, Microsoft Azure, and AWS Educate. It offers GitHub Classroom for managing and grading assignments, and the GitHub Learning Lab for interactive tutorials. Students can also become Campus Experts to lead and organize technical communities. Additionally, GitHub Education facilitates networking opportunities and participation in events and hackathons. Overall, it equips students with the resources needed for success in software development.
 
+## More about Student Developer Pack
+
+The GitHub Student Developer Pack offers students access to a wide array of premium developer tools and services to enrich their learning and project development experience. Among the offerings is access to groundbreaking tools like GitHub Copilot, an AI-powered code completion tool that assists developers in writing code more efficiently and effectively.
+
+Additionally, the pack provides access to a diverse range of courses covering various topics such as mobile application development, machine learning, data science, and even writing in Markdown. These courses offer invaluable learning opportunities for students to expand their skill set and explore new technologies and domains.
+
 ### Getting Access Tutorial
 
 1. **Meet the Requirements**: Before requesting access to GitHub Education, ensure your GitHub account name and last name match your student ID. If you have a middle name, include it on GitHub as well. Refer to the screenshot below for guidance.
