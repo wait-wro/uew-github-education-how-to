@@ -11,20 +11,20 @@ GitHub Education provides students with free access to premium developer tools t
 
 1. **Meet the Requirements**: Before requesting access to GitHub Education, ensure your GitHub account name and last name match your student ID. If you have a middle name, include it on GitHub as well. Refer to the screenshot below for guidance.
 
-!["Requirements"](https://github.com/wait-wro/uew-github-education-how-to/blob/main/Pictures/Pic4.png)
-
+   ![Requirements](https://github.com/wait-wro/uew-github-education-how-to/blob/main/Pictures/Pic4.png)
 
 2. **Join Global Campus**: Visit [GitHub Education](https://github.com/edu) and click on "Join Global Campus."
 
-!["Global Campus"](https://github.com/wait-wro/uew-github-education-how-to/blob/main/Pictures/Pic1.png)
+   ![Global Campus](https://github.com/wait-wro/uew-github-education-how-to/blob/main/Pictures/Pic1.png)
 
 3. **Verify Student Status**: Verify your student status by taking a real-time photo of your student ID. Note that you cannot upload a pre-existing photo. After capturing the photo, click "Process my application."
 
-!["Are you a student?"](https://github.com/wait-wro/uew-github-education-how-to/blob/main/Pictures/Pic2.png)
-!["Student ID pic"](https://github.com/wait-wro/uew-github-education-how-to/blob/main/Pictures/Pic3.png)
+   ![Are you a student?](https://github.com/wait-wro/uew-github-education-how-to/blob/main/Pictures/Pic2.png)
+   ![Student ID pic](https://github.com/wait-wro/uew-github-education-how-to/blob/main/Pictures/Pic3.png)
 
 4. **Confirmation**: Congratulations! You have submitted your GitHub Education access request. It will be verified within 10 days.
 
-!["Thanks for submiting!"](https://github.com/wait-wro/uew-github-education-how-to/blob/main/Pictures/Pic5.png)
+   ![Thanks for submitting!](https://github.com/wait-wro/uew-github-education-how-to/blob/main/Pictures/Pic5.png)
 
    For more information about GitHub Education, click on [this link](https://education.github.com/students).
+
