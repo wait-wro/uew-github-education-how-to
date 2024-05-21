@@ -10,7 +10,6 @@ GitHub Education provides students with free access to premium developer tools t
 ## More about Student Developer Pack
 
 The GitHub Student Developer Pack offers students access to a wide array of premium developer tools and services to enrich their learning and project development experience. Among the offerings is access to groundbreaking tools like GitHub Copilot, an AI-powered code completion tool that assists developers in writing code more efficiently and effectively.
-
 Additionally, the pack provides access to a diverse range of courses covering various topics such as mobile application development, machine learning, data science, and even writing in Markdown. These courses offer invaluable learning opportunities for students to expand their skill set and explore new technologies and domains.
 
 ### Getting Access Tutorial
@@ -34,3 +33,6 @@ Additionally, the pack provides access to a diverse range of courses covering va
 
    For more information about GitHub Education, click on [this link](https://education.github.com/students).
 
+5. **GitHub Approval**: You will receive a response from GitHub regarding the approval of your request within 10 days. You can check the status of your application [here](https://education.github.com/discount_requests/application).
+
+   ![Request approved!](https://github.com/wait-wro/uew-github-education-how-to/blob/main/Pictures/Pic6.jpg)
